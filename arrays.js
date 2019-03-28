@@ -1,0 +1,14 @@
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+
+function addElementToBeginningOfArray{
+
+}
+function destructivelyAddElementToEndOfArray{
+
+}
+function addElementToEndOfArray{
+
+}
+function destructivelyAddElementToEndOfArray{
+
+}
